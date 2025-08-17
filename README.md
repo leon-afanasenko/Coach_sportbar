@@ -149,6 +149,7 @@ scoreprize/
 ## Email-рассылка
 
 - Для отправки писем используется SendGrid (API-ключ в `.env`)
+  https://app.sendgrid.com
 - Отправитель: `prizes@promo-restoran.com`
 - В письме — поздравление, детали выигрыша и QR-код (PNG)
 
